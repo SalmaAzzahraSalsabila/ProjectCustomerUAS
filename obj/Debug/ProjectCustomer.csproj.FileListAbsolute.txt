@@ -1,0 +1,14 @@
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+D:\TUGAS KULIAH\PEMROGRAMAN\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
